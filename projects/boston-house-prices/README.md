@@ -4,5 +4,5 @@ the percentage of the lower status has the strongest negative correlation with h
 fitting a Decision Tree Regressor, two other key parameters are identified: the average number of rooms and the weighted
 distances from employment centers in Boston. The next part of the notebook digs into how to systematically develop the model
 and track the performance as a function of the max_depth parameter in the Regressor. Finally, a housing price is predicted
-for a pre-determined client. 
+for a pre-determined client.
 
