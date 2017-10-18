@@ -22,12 +22,4 @@ distances from employment centers in Boston. The next part of the notebook digs 
 and track the performance as a function of the max_depth parameter in the Regressor. Finally, a housing price is predicted
 for a pre-determined client.
 
-### Project 2 - Student Intervention System
-This project  analyzes a dataset containing features and graduation status of 395 students. Classification algorithms are 
-compared to identify optimal predictive performance on student graduation status. 
 
-### Project 3 - Creating Customer Segments
-
-### Project 4 - Train SmartCab to Drive
-
-### Project 5 - Capstone: Predicting Educational Achievement Gaps
