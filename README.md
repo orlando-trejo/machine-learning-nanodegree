@@ -23,8 +23,8 @@ and track the performance as a function of the max_depth parameter in the Regres
 for a pre-determined client.
 
 ### Project 2 - Student Intervention System
-This project  analyzes a dataset containing features and graduation status of 395 students. Classification algorithms are 
-compared to identify optimal predictive performance on student graduation status. 
+This project  analyzes a dataset containing features and graduation status of 395 students. Multiple classification algorithms are 
+compared to identify optimal predictive performance on student graduation status. Support Vector Machines (SVMs) repeatedly result in the best predictive performance for the training and testing sets. Tuning by doing a Grid Search Optimization on the 'C' and 'gamma' parameters results in a 83% graduation status prediction accuracy on the test set. An additional analysis is done to find key features determining student graduation status. By using the feature variance as a filter, it is possible to see that Age, Mother's Education, Father's Education, Going Out w/ Friends, Weekend Alcohol Consumption, Health Status, and Absences contain the majority of the information necessary to predict a student's graduation performance.  
 
 ### Project 3 - Creating Customer Segments
 
